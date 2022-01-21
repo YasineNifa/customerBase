@@ -1,0 +1,29 @@
+{
+    "customers":[
+
+        {
+            "id":"1",
+            "name":"Joe",
+            "email":"joe@gmail.com",
+            "age":25
+        },
+        {
+            "id":"2",
+            "name":"Job",
+            "email":"job@gmail.com",
+            "age":25
+        },
+        {
+            "id":"3",
+            "name":"Joq",
+            "email":"joQ@gmail.com",
+            "age":39
+        },
+        {
+            "id":"4",
+            "name":"Joz",
+            "email":"joz@gmail.com",
+            "age":20
+        }
+    ]
+}
