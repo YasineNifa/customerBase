@@ -1,0 +1,25 @@
+{
+  "name": "nodejsgraphql",
+  "version": "1.0.0",
+  "description": "Simple GraphQL server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasineNifa/customerBase.git"
+  },
+  "author": "Yassine Nifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasineNifa/customerBase/issues"
+  },
+  "homepage": "https://github.com/YasineNifa/customerBase#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "nodemon": "^2.0.15"
+  }
+}
